@@ -8,7 +8,8 @@ Report security problems privately, as described in [SECURITY.md](SECURITY.md).
 
 ## Set up
 
-Install Node.js 24 or later and pnpm 11, then run:
+Install Node.js 24 or later and pnpm 11. If you use nvm, run `nvm use` after
+installing or configuring Node.js with nvm. Then run:
 
 ```sh
 pnpm install
